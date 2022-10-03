@@ -1,6 +1,6 @@
 import  java.util.*;
 
-class tafifa{
+public class Tarifa{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int x = scan.nextInt(), n = scan.nextInt();
@@ -8,6 +8,7 @@ class tafifa{
         for (int i = 0; i < n; i++){
             availableMegabytes -= scan.nextInt();
         }
+        scan.close();
         System.out.println(availableMegabytes);
     }
 }
