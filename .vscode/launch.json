@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch betting",
+            "request": "launch",
+            "mainClass": "betting",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tarifa",
+            "request": "launch",
+            "mainClass": "Tarifa",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch carrots",
+            "request": "launch",
+            "mainClass": "carrots",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch chanukah",
+            "request": "launch",
+            "mainClass": "chanukah",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch cold",
+            "request": "launch",
+            "mainClass": "cold",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch digitswap",
+            "request": "launch",
+            "mainClass": "digitswap",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch echoechoecho",
+            "request": "launch",
+            "mainClass": "echoechoecho",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch electricaloutlets",
+            "request": "launch",
+            "mainClass": "electricaloutlets",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch faktor",
+            "request": "launch",
+            "mainClass": "faktor",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch filip",
+            "request": "launch",
+            "mainClass": "filip",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch findingana",
+            "request": "launch",
+            "mainClass": "findingana",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch fyi",
+            "request": "launch",
+            "mainClass": "fyi",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch gcvwr",
+            "request": "launch",
+            "mainClass": "gcvwr",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch jackolanternjuxtaposition",
+            "request": "launch",
+            "mainClass": "jackolanternjuxtaposition",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch timeloop",
+            "request": "launch",
+            "mainClass": "timeloop",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch triarea",
+            "request": "launch",
+            "mainClass": "triarea",
+            "projectName": "Java_open.kattis._a0460971"
+        },
+        {
+            "type": "java",
+            "name": "Launch whichisgreater",
+            "request": "launch",
+            "mainClass": "whichisgreater",
+            "projectName": "Java_open.kattis._a0460971"
+        }
+    ]
+}

@@ -10,5 +10,6 @@ public class chanukah {
             int wynik = ((b+2)*(b+1)) /2 - 1;
             System.out.println(i+ " " +wynik);
         }
+        sc.close();
     }
 }
